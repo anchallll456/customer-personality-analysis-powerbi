@@ -49,22 +49,6 @@ This dashboard solves these problems using data visualization.
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-### 🔹 Overview Dashboard
-
-![Overview](Images/overview.png)
-
-### 🔹 Customer Segmentation
-
-![Segmentation](Images/segmentation.png)
-
-### 🔹 Key Insights
-
-![Insights](Images/insights.png)
-
----
-
 ## 🛠️ Tools Used
 
 * Power BI
